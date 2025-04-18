@@ -1,5 +1,3 @@
-## Hi there 👋
-
 My name is superhenryman. That's it.
 
 I'm a self taught backend developer, specializing in Python.
